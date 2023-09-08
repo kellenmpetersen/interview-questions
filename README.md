@@ -1,2 +1,2 @@
 # interview-questions
-My answers to various technical interview questions
+My answers in Java to technical interview questions
