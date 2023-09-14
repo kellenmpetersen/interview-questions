@@ -1,6 +1,6 @@
 //  LeetCode - 977. Squares of a Sorted Array
 //  https://leetcode.com/problems/squares-of-a-sorted-array
-//  time to solve: 11:11
+//  time to solve: 11:11 (Sep 14 2023)
 //  TODO:   edge cases with these two pointers . . . was one off again on while loop boundary
 //          loop invarients?
 

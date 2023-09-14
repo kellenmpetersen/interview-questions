@@ -1,6 +1,9 @@
 # interview-questions
 My answers to data structures and algorithm questions commonly asked in technical interviews.
+
 Documenting my learning, practice and improvement.
+
+Practing daily LeetCode questions to simulate mock interview as well as practicing patterns to develop expertise.
 
 ## documentation (included as comment at top of file)
 
