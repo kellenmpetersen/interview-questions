@@ -1,6 +1,6 @@
 //  LeetCode - 448. Find All Numbers Disappeared in an Array
 //  https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array
-//  time to solve: 9m27s
+//  time to solve: 9:27
 //  (solved this problem on a phone call so excuse the generic variable names)
 
 class Solution {
