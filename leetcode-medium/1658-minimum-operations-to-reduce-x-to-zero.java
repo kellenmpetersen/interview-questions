@@ -1,6 +1,6 @@
 //  LeetCode - 1658. Minimum Operations to Reduce X to Zero
 //  https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero
-//  time spent problem solving: 2:16 (Sep 19 2023)
+//  time problem solving: 36:48 (Sep 20 2023)
 //  solution consulted:
 //  https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/solutions/4066422/96-51-sliding-window/
 //  TODO:   learn sliding window pattern
