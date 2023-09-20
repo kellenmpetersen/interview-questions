@@ -20,6 +20,8 @@ leetcode.com questions rated easy
 leetcode.com questions rated medium
 ### leetcode-hard
 leetcode.com questions rated hard
+### patterns
+notes on DSA patterns for problem solving
 
 ## language choice
 Sep 2023:   I am using Java since I have the most extensive background with it.
