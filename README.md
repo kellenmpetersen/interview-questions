@@ -13,6 +13,8 @@ problem URL
 
 time to solve if blind OR solution source AND takeaways (date in Month, Day, Year format)
 
+concept (Data Structure(s) and/or Algorithm(s))
+
 ## file structure
 ### leetcode-easy
 leetcode.com questions rated easy
