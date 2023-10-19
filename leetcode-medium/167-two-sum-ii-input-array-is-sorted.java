@@ -1,5 +1,5 @@
-//  LeetCode - 125. Valid Palindrome
-//  https://leetcode.com/problems/valid-palindrome
+//  LeetCode - 167. Two Sum II - Input Array Is Sorted
+//  https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 //  time to solve: 5:22 (Oct 19 2023)
 //  concept: NeetCode (2/5) Two Pointers
 //  TODO:   read the problem and examples carefully. I didn't return
