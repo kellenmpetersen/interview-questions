@@ -1,4 +1,3 @@
-
 //  LeetCode - 36. Valid Sudoku
 //  https://leetcode.com/problems/valid-sudoku
 //  time to solve: 27:54 (Oct 18 2023)
