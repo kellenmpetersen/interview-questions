@@ -3,7 +3,7 @@
 //  time to solve: 5:22 (Oct 19 2023)
 //  concept: NeetCode (2/5) Two Pointers
 //  TODO:   read the problem and examples carefully. I didn't return
-//          the correct indices initally. 
+//          the correct indices initally.
 
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
